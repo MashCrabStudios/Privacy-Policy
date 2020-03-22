@@ -25,5 +25,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at mashcrabstudios@gmail.com.
 
-<p style="color:black">Last updated: March 21, 2020</p>
-</body>
+**Last updated: March 21, 2020**
