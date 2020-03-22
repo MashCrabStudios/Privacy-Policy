@@ -1,4 +1,4 @@
-# Mash Crab Studios
+# MashCrab Studios
 ___
 
 ## **Privacy Policy**
