@@ -1,6 +1,5 @@
 # Mash Crab Studios
 ___
-</div>
 
 ## **Privacy Policy**
 Mash Crab Studios.("Mash Crab Studios" or "we" or "us") is dedicated to protecting the privacy rights of our users ("users" or "you").
