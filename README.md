@@ -1,12 +1,3 @@
-<style>
-body
-{
-color: #70131c;
-}
-</style>
-<body style="background-color:#fff0d1">
-<div style="background-color:">
-
 # Mash Crab Studios
 ___
 </div>
